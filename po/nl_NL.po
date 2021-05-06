@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20100222102832\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.22 10:28+0200\n"
+"PO-Revision-Date: 2010.02.22 10:28+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Codering vereist"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP- en chataccounts"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Geavanceerde instellingen"
+
+msgid "accounts_bd_create_new"
+msgstr "Nieuwe account registreren"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Facebook-gebruikersnaam definiëren"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Vergeten wachtwoord achterhalen"
+
+msgid "accounts_bd_new"
+msgstr "Nieuw"
+
+msgid "accounts_bd_register"
+msgstr "Registreren"
+
+msgid "accounts_bd_sign_in"
+msgstr "Aanmelden"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Geavanceerde instellingen"
+
+msgid "accounts_fi_avatar"
+msgstr "Avatar"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Account verwijderen? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Account verwijderen? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Kan geen account maken."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Account uitschakelen?\n"
+"%s\n"
+"Het account zal worden afgemeld."
+
+msgid "accounts_fi_disabled"
+msgstr "Uitgeschakeld"
+
+msgid "accounts_fi_draft"
+msgstr "Niet aangemeld"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Account voor %s bewerken"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Persoonlijke gegevens bewerken"
+
+msgid "accounts_fi_enabled"
+msgstr "Ingeschakeld"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Voer eerst het adres en wachtwoord in"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Voer eerst een gebruikersnaam en wachtwoord in"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Gebruik de gebruikersnaam in plaats van het e-mailadres."
+
+msgid "accounts_fi_password"
+msgstr "Wachtwoord"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Poortnummer buiten bereik (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Problemen bij verbinden met de service. Probeer het later opnieuw."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Opnieuw verbinding maken?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Wachtwoord herhalen"
+
+msgid "accounts_fi_screen_name"
+msgstr "Schermnaam"
+
+msgid "accounts_fi_user_name"
+msgstr "Gebruikersnaam"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Adres"
+
+msgid "accounts_fi_username_exists"
+msgstr "Er bestaat al een account met gebruikersnaam %s voor %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s is aangemeld."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Chatten, delen en webservices geactiveerd."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(geen accounts)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Te gebruiken voor telefoonnummers"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Er kan slechts één %s-account actief zijn. %s-account\n"
+"uitschakelen?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP- en chataccounts"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Gebruikersnaam of wachtwoord onjuist"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Aangemeld bij Ovi by Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Account instellen - nieuw Jabber-account:"
+
+msgid "accounts_ti_registering"
+msgstr "Bezig met registreren van %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "%s aanmelden"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Gebruikersnaam wordt al gebruikt. Probeer een andere gebruikersnaam."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Publiek adres ontdekken"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Keep-alive-mechanisme"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Keep-alive-periode"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minuten"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minuut"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minuten"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 seconden"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minuten"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Vrije routering"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Uitgaande proxy"
+
+msgid "accountwizard_fi_transport"
+msgstr "Overdrachtstype"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Gebruikersnaam kan geen '%s' bevatten"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Veld kan niet de volgende tekens bevatten: %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Veld kan geen spaties bevatten"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Veld kan geen spaties bevatten"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Ongeldig domeinadres.\n"
+"Wijzig het adres en probeer het opnieuw."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Wachtwoorden komen niet overeen. Typ het wachtwoord opnieuw."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Oude SSL gebruiken"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "SSL-certificaatfouten negeren"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Poort"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Uit"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Automatisch detecteren van STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Verbinden met server"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Bron"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN-poort"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN-server"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Geavanceerde %s-instellingen"
+
+msgid "accountwizard_ti_login"
+msgstr "Account instellen: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Account instellen: service selecteren"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Auto"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Er kan slechts één Skype-account actief zijn.\n"
+"%s afmelden?"

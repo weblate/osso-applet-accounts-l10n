@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20100222102832\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.22 10:28+0200\n"
+"PO-Revision-Date: 2010.02.22 10:28+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Kryptering påkrævet"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP- og IM-konti"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Avancerede indstillinger"
+
+msgid "accounts_bd_create_new"
+msgstr "Registrer ny konto"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Definer Facebook-brugernavn"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Find glemt adgangskode"
+
+msgid "accounts_bd_new"
+msgstr "Ny"
+
+msgid "accounts_bd_register"
+msgstr "Register"
+
+msgid "accounts_bd_sign_in"
+msgstr "Log på"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Avancerede indstillinger"
+
+msgid "accounts_fi_avatar"
+msgstr "Kontaktbillede"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Slet konto? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Slet konto? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Kan ikke oprette konto."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Deaktiver konto?\n"
+"%s\n"
+"Du vil blive logget af kontoen."
+
+msgid "accounts_fi_disabled"
+msgstr "Deaktiveret"
+
+msgid "accounts_fi_draft"
+msgstr "Ikke logget på"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Rediger konto for %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Rediger personlige oplysninger"
+
+msgid "accounts_fi_enabled"
+msgstr "Aktiveret"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Indtast adresse og adgangskode først"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Indtast brugernavn og adgangskode først"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Anvend brugernavn i stedet for e-mail-adresse"
+
+msgid "accounts_fi_password"
+msgstr "Adgangskode"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Portnummer uden for rækkevidde (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr ""
+"Der opstod problemer i forbindels med oprettelse af forbindelse til "
+"tjenesten. Prøv igen senere."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Opret forbindelse igen?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Bekræft adgangsk."
+
+msgid "accounts_fi_screen_name"
+msgstr "Skærmnavn"
+
+msgid "accounts_fi_user_name"
+msgstr "Brugernavn"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Adresse"
+
+msgid "accounts_fi_username_exists"
+msgstr "Kontoen med brugernavnet %s eksisterer allerede for %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s er logget på."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Chat, deling og webtjenester aktiveret."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(ingen konti)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Brug til telefonnumre"
+
+msgid "accounts_nc_activate_account"
+msgstr "Der kan kun være én aktiv %s-konto. Deaktiver konto %s?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP- og IM-konti"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Ugyldigt navn eller adgangskode"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Logget ind på Ovi by Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Konfiguration af konto - Ny Jabber-konto"
+
+msgid "accounts_ti_registering"
+msgstr "Registrerer %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Logger på %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Brugernavn allerede i brug. Prøv et andet."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Registrer offentlig adresse"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Keep-alive-mekanisme"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Keep-alive-interval"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minutter"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minut"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minutter"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 sekunder"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minutter"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Loose routing"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Udgående proxy"
+
+msgid "accountwizard_fi_transport"
+msgstr "Transport"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Brugernavnet kan ikke indeholde '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Feltet kan ikke indeholde tegnene %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Feltet kan ikke indeholde mellemrum"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Feltet kan ikke indeholde mellemrum"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Ugyldig domæneadresse.\n"
+"Skift adresse, og prøv igen."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Adgangskoderne er ikke ens. Indtast adgangskoden igen."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Brug gammel SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ignorer SSL-certifikatfejl"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Port"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Fra"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Automatisk registrering af STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Opret forbindelse til serveren"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Ressource"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN-port"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN-server"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Avancerede indstillinger for %s"
+
+msgid "accountwizard_ti_login"
+msgstr "Konfiguration af konto: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Konfiguration af konto: Vælg tjeneste"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Auto"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Der kan kun være én aktiv Skype-konto.\n"
+"Log af %s?"

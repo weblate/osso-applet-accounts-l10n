@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20100222102832\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.22 10:28+0200\n"
+"PO-Revision-Date: 2010.02.22 10:28+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Tarvitaan salaus"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP- ja pikaviestitilit"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Lisäasetukset"
+
+msgid "accounts_bd_create_new"
+msgstr "Rekisteröi uusi tili"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Määritä Facebook-käyttäjänimi"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Unohtunut salasana"
+
+msgid "accounts_bd_new"
+msgstr "Uusi"
+
+msgid "accounts_bd_register"
+msgstr "Rekisteröi"
+
+msgid "accounts_bd_sign_in"
+msgstr "Kirj. sisään"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Lisäasetukset"
+
+msgid "accounts_fi_avatar"
+msgstr "Avatar"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Poistetaanko tili? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Poistetaanko tili? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Tiliä ei voi luoda."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Poistetaanko tili käytöstä?\n"
+"%s\n"
+"Tililtä kirjaudutaan ulos."
+
+msgid "accounts_fi_disabled"
+msgstr "Ei käytössä"
+
+msgid "accounts_fi_draft"
+msgstr "Ei kirjauduttu"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Muokkaa palvelun %s tiliä"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Muokkaa henkilötietoja"
+
+msgid "accounts_fi_enabled"
+msgstr "Käytössä"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Kirjoita ensin osoite ja salasana"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Kirjoita ensin käyttäjänimi ja salasana"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Käytä käyttäjänimeä sähköpostiosoitteen sijaan."
+
+msgid "accounts_fi_password"
+msgstr "Salasana"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Portin numeron on oltava väliltä 1-65535"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr ""
+"Ongelma muodostettaessa yhteyttä palvelimeen. Yritä myöhemmin uudelleen."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Muodosta yhteys uudelleen?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Toista salasana"
+
+msgid "accounts_fi_screen_name"
+msgstr "Näyttönimi"
+
+msgid "accounts_fi_user_name"
+msgstr "Käyttäjänimi"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Osoite"
+
+msgid "accounts_fi_username_exists"
+msgstr "Tili, jonka käyttäjänimi on %s, on jo olemassa palvelussa %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s on kirjautunut sisään."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Pikaviesti-, jako- ja web-palvelut otettu käyttöön."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(ei tilejä)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Käytä puhelinnumeroihin"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Vain yksi %s-tili voi olla käytössä. Poistetaanko käytöstä tili\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP- ja pikaviestitilit"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Virheellinen käyttäjänimi tai salasana"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Kirjautunut sisään Ovi by Nokia -palveluun: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Tilin asetusten määrittäminen - Uusi Jabber-tili:"
+
+msgid "accounts_ti_registering"
+msgstr "Rekisteröidään %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Kirjaudutaan tilille %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Käyttäjänimi on jo käytössä. Käytä jotain muuta nimeä."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Etsi julkinen osoite"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Keep-alive-mekanismi"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Keep-alive-jakso"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minuuttia"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minuutti"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minuuttia"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 sekuntia"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minuuttia"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Automaattinen"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Vapaamuotoinen reititys"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Lähtevän liikenteen välityspalvelin"
+
+msgid "accountwizard_fi_transport"
+msgstr "Siirto"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Käyttäjänimessä ei voi olla merkkiä %s"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Kentässä ei voi olla merkkejä %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Kentässä ei voi olla välilyöntejä"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Kentässä ei voi olla välilyöntejä"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Virheellinen toimialueen osoite.\n"
+"Muuta osoitetta ja yritä uudelleen."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Salasanat eivät täsmää. Kirjoita salasana uudelleen."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Käytä vanhaa SSL-varmennetta"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ohita SSL-varmenteen virheet"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Portti"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Automaattinen"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Ei käytössä"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Etsi STUN automaattisesti"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Yhdistä palvelimeen"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Resurssi"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN-portti"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN-palvelin"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Lisäasetukset: %s "
+
+msgid "accountwizard_ti_login"
+msgstr "Tilin asetusten määrittäminen: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Tilin asetusten määrittäminen: valitse palvelu"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Automaattinen"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Vain yksi Skype-tili voi olla käytössä.\n"
+"Kirjataanko %s ulos?"

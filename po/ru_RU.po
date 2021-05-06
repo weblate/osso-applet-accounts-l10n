@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20100222102832\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.22 10:28+0200\n"
+"PO-Revision-Date: 2010.02.22 10:28+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Требуется шифрование"
+
+msgid "accounts_ap_accounts"
+msgstr "Учетные записи VoIP и чата"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Расширенные настройки"
+
+msgid "accounts_bd_create_new"
+msgstr "Регистрация новой учетной записи"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Определить имя пользователя Facebook"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Восстановить забытый пароль"
+
+msgid "accounts_bd_new"
+msgstr "Создать"
+
+msgid "accounts_bd_register"
+msgstr "Регистрация"
+
+msgid "accounts_bd_sign_in"
+msgstr "Войти"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Расширенные настройки"
+
+msgid "accounts_fi_avatar"
+msgstr "Аватар"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Удалить учетную запись? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Удалить учетную запись? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Не удается создать учетную запись."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Отключить учетную запись?\n"
+"%s\n"
+"Будет выполнен выход из учетной записи."
+
+msgid "accounts_fi_disabled"
+msgstr "Отключено"
+
+msgid "accounts_fi_draft"
+msgstr "Не удалось войти"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Изменить учетную запись %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Изменить личные данные"
+
+msgid "accounts_fi_enabled"
+msgstr "Включено"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Сначала введите адрес и пароль"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Сначала введите имя пользователя и пароль"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Использовать имя пользователя вместо адреса электронной почты."
+
+msgid "accounts_fi_password"
+msgstr "Пароль"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Номер порта вне диапазона (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Не удалось подключиться к службе. Повторите попытку позже."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Обновить соединение?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Подтвердите пароль"
+
+msgid "accounts_fi_screen_name"
+msgstr "Имя на экране"
+
+msgid "accounts_fi_user_name"
+msgstr "Имя пользователя"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Адрес"
+
+msgid "accounts_fi_username_exists"
+msgstr "Учетная запись с именем пользователя %s уже существует для %s."
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s зарегистрирован."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Чат, обмен и веб-службы активированы."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(нет учетных записей)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Использовать для телефонных номеров"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Может быть активной только одна учетная запись %s. Отключить учетную запись\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "Учетные записи VoIP и чата"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Неверное имя пользователя или пароль"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Зарегистрирован на Ovi Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Настройка учетной записи - Создать учетную запись Jabber:"
+
+msgid "accounts_ti_registering"
+msgstr "Регистрация %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Вход в учетную запись %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Данное имя пользователя уже используется. Укажите другое имя."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Определять внешний адрес"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Механизм поддержания активности"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Период поддержания активности"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 минут"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 минута"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 минуты"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 секунд"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 минут"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Автоматически"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Нестрогая маршрутизация"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Прокси исходящих вызовов"
+
+msgid "accountwizard_fi_transport"
+msgstr "Транспорт"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Имя пользователя не может содержать '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Поле не может содержать символы %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Поле не может содержать пробелы"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Поле не может содержать пробелы"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Неверный доменный адрес.\n"
+"Измените адрес и повторите попытку."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr ""
+"Несоответствие паролей.\n"
+"Повторите ввод пароля."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Использовать старый SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Игнорировать ошибки сертификата SSL"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Порт"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Автоматически"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Откл"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Автоматическое обнаружение STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Соединение с сервером"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Ресурс"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "Порт STUN"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "Сервер STUN"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Расширенные настройки %s"
+
+msgid "accountwizard_ti_login"
+msgstr "Настройка учетной записи: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Настройка учетной записи: выберите сервис"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Автоматически"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Может быть активна только одна учетная запись Skype.\n"
+"Закончить сеанс %s?"

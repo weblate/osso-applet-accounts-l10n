@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20100222102832\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.22 10:28+0200\n"
+"PO-Revision-Date: 2010.02.22 10:28+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Wymagane szyfrowanie"
+
+msgid "accounts_ap_accounts"
+msgstr "Konta VoIP i czat"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Ustawienia zaawansowane"
+
+msgid "accounts_bd_create_new"
+msgstr "Zarejestruj nowe konto"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Podaj nazwę użytkownika Facebook"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Odzyskaj zapomniane hasło"
+
+msgid "accounts_bd_new"
+msgstr "Nowe"
+
+msgid "accounts_bd_register"
+msgstr "Zarejestruj się"
+
+msgid "accounts_bd_sign_in"
+msgstr "Zaloguj się"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Ustawienia zaawansowane"
+
+msgid "accounts_fi_avatar"
+msgstr "Awatar"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Usunąć konto? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Usunąć konto? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Nie można utworzyć konta."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Wyłączyć konto?\n"
+"%s\n"
+"Konto zostanie wyrejestrowane."
+
+msgid "accounts_fi_disabled"
+msgstr "Wyłączono"
+
+msgid "accounts_fi_draft"
+msgstr "Nie zalogowano"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Edytuj konto użytkownika %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Edytuj informacje osobiste"
+
+msgid "accounts_fi_enabled"
+msgstr "Włączono"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Najpierw wpisz adres i hasło"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Najpierw wpisz nazwę użytkownika i hasło"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Użyj nazwy użytkownika zamiast adresu e-mail"
+
+msgid "accounts_fi_password"
+msgstr "Hasło"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Numer portu poza zakresem (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Problemy połączenia z serwerem. Spróbuj ponownie później."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Połączyć ponownie?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Potwierdź hasło"
+
+msgid "accounts_fi_screen_name"
+msgstr "Wyświetlana nazwa"
+
+msgid "accounts_fi_user_name"
+msgstr "Nazwa użytkownika"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Adres"
+
+msgid "accounts_fi_username_exists"
+msgstr "Konto z nazwą użytkownika %s już istnieje dla %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "Użytkownik %s jest zalogowany."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Czat oraz usługi internetowe i udostępniania aktywowane."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(brak kont)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Używaj dla połączeń telefonicznych"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Tylko jedno konto %s może być aktywne. Wyłączyć konto:\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "Konta VoIP i czat"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Nieprawidłowa nazwa użytkownika lub hasło"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Użytkownik zalogowany w serwisie Ovi firmy Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Konfiguracja konta - Nowe konto użytkownika Jabber:"
+
+msgid "accounts_ti_registering"
+msgstr "Rejestrowanie %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Logowanie %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Nazwa użytkownika jest już używana. Wybierz inną nazwę."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Wykryj adres publiczny"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Utrzymywanie połączenia"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Okres utrzymywania połączenia"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minut"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minuta"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minuty"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 sekund"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minut"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Automatycznie"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Swobodne trasowanie"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Serwer proxy dla poł. wych."
+
+msgid "accountwizard_fi_transport"
+msgstr "Transport"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Nazwa użytkownika nie może zawierać znaków %s"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Pole nie może zawierać znaków %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Pole nie może zawierać spacji"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Pole nie może zawierać spacji"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Nieprawidłowy adres domeny.\n"
+"Zmień adres i spróbuj ponownie."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Hasła niezgodne. Wpisz ponownie hasło."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Użyj starego SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ignoruj błędy certyfikatu SSL"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Port"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Automatycznie"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Wyłączone"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Autom. wykrywanie protokołu STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Połącz z serwerem"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Zasoby"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "Port STUN"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "Serwer STUN"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Ustawienia zaawansowane %s"
+
+msgid "accountwizard_ti_login"
+msgstr "Konfiguracja konta: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Konfiguracja konta: Wybór usługi"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Automatycznie"
+
+msgid "skype_nc_activate_account"
+msgstr "Tylko jedno konto Skype może być aktywne. Wylogować użytkownika %s?"

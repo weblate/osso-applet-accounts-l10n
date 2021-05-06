@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20100222102832\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.22 10:28+0200\n"
+"PO-Revision-Date: 2010.02.22 10:28+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Kryptering krävs"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP- och IM-konton"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Avancerade inställningar"
+
+msgid "accounts_bd_create_new"
+msgstr "Registrera nytt konto"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Definiera Facebook-användarnamn"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Återställ glömt lösenord"
+
+msgid "accounts_bd_new"
+msgstr "Ny"
+
+msgid "accounts_bd_register"
+msgstr "Registrera"
+
+msgid "accounts_bd_sign_in"
+msgstr "Logga in"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Avancerade inställningar"
+
+msgid "accounts_fi_avatar"
+msgstr "Avatar"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Vill du ta bort kontot? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Vill du ta bort kontot? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Det gick inte att skapa konto."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Vill du inaktivera kontot?\n"
+"%s\n"
+"Du loggas ut från kontot."
+
+msgid "accounts_fi_disabled"
+msgstr "Inaktiverad"
+
+msgid "accounts_fi_draft"
+msgstr "Inte inloggad"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Redigera konto för %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Redigera personlig information"
+
+msgid "accounts_fi_enabled"
+msgstr "Aktiverat"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Ange adress och lösenord först"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Ange användarnamn och lösenord först"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Använd användarnamn istället för e-postadress."
+
+msgid "accounts_fi_password"
+msgstr "Lösenord"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Portnummer utanför intervall (1–65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Problem att ansluta till tjänsten. Försök igen senare."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Vill du återansluta?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Bekräfta lösenord"
+
+msgid "accounts_fi_screen_name"
+msgstr "Skärmnamn"
+
+msgid "accounts_fi_user_name"
+msgstr "Användarnamn"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Adress"
+
+msgid "accounts_fi_username_exists"
+msgstr "Ett konto med användarnamnet %s finns redan för %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s är inloggad."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Chatt, delning och webbtjänster aktiverade."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(inga konton)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Använd för telefonnummer"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Endast ett %s-konto kan vara aktivt. Vill du inaktivera kontot\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP- och IM-konton"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Användarnamnet eller lösenordet är felaktigt"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Inloggad på Ovi via Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Kontoinställningar - Nytt Jabber-konto:"
+
+msgid "accounts_ti_registering"
+msgstr "Registrerar %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Loggar in %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Användarnamnet används redan. Prova ett annat."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Upptäck publik adress"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Keep-alive-mekanism"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Keep-alive-period"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minuter"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minut"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minuter"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 sekunder"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minuter"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Lös routing"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Utgående proxy"
+
+msgid "accountwizard_fi_transport"
+msgstr "Transport"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Användarnamn får inte innehålla '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Fältet kan inte innehålla tecknen %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Fältet får inte innehålla blanksteg"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Fältet får inte innehålla blanksteg"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Ogiltig domänadress.\n"
+"Ändra adressen och försök igen."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Lösenorden stämmer inte överens. Skriv lösenordet igen."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Använd gammal SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ignorera SSL-certifikatfel"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Port"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Av"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Automatisk avkänning av STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Anslut till server"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Resurs"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN-port"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN-server"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Avancerade %s-inställningar"
+
+msgid "accountwizard_ti_login"
+msgstr "Kontoinställningar: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Kontoinställningar: Välj tjänst"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Auto"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Endast ett Skype-konto kan vara aktivt.\n"
+"Logga ut %s?"
