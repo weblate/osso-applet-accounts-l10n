@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-04-27 18:48+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "accounts_ap_accounts"
+msgstr "حسابات الدردشة و VOIP"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "إعدادات متقدمة"
+
+msgid "accounts_bd_create_new"
+msgstr "تسجيل حساب جديد"
+
+msgid "accounts_bd_forgot_password"
+msgstr "إستعادة كلمة السر المفقوده"
+
+msgid "accounts_bd_new"
+msgstr "جديد"
+
+msgid "accounts_bd_register"
+msgstr "تسجيل"
+
+msgid "accounts_bd_sign_in"
+msgstr "تسجيل الدخول"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "إعدادات متقدمة"
+
+msgid "accounts_fi_avatar"
+msgstr "صورة رمزية"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "مسح الحسابات؟ %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "مسح الحساب؟ %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "غير قادر على أنشاء الحساب."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"تعطيل الحساب؟\n"
+"%s\n"
+"وسيتم تسجيل الخروج من الحساب."
+
+msgid "accounts_fi_disabled"
+msgstr "تعطيل"
+
+msgid "accounts_fi_draft"
+msgstr "لم يتم تسجيل الدخول"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "تحرير الحساب ل %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "تحرير المعلومات الشخصية"
+
+msgid "accounts_fi_enabled"
+msgstr "مفعل"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "أدخل أسم المستخدم وكلمة السر أولا"
+
+msgid "accounts_fi_password"
+msgstr "كلمة السر"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "رقم المنفذ خارج النطاق (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "يوجد مشكلة لدي الأتصال بالخادم. أعد المحاولة لاحقا."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "إعادة الأتصال؟"
+
+msgid "accounts_fi_retype_password"
+msgstr "التحقق من كلمة السر"
+
+msgid "accounts_fi_screen_name"
+msgstr "الأسم الظاهر"
+
+msgid "accounts_fi_user_name"
+msgstr "أسم المستخدم"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "العنوان"
+
+msgid "accounts_fi_username_exists"
+msgstr "الحساب مع أسم المستخدم %s موجود بالفعل ل %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s سجل الدخول في."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "دردشة, والمشاركة وتفعيل خدمات الأنترنت."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(لاتوجد حسابات)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "إستخدام رقم الهاتف"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"واحد فقط %s من الحسابات يمكن تفعيله. تعطيل الحساب\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "الصوت عبر بروتوكول الأنترنت وحسابات الدردشة"
+
+msgid "accounts_ti_auth_failed"
+msgstr "أسم المستخدم أو كلمة المرور غير صحيحة"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "عبر نوكيا OVI تسجيل الدخول ل: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "إعدادات الحساب - جديد Jabber حساب:"
+
+msgid "accounts_ti_registering"
+msgstr "جارى التسجيل %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "تسجيل الدخول %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "أسم المستخدم موجود. أستخدم أسم آخر."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "أستكشاف العناواين العامة"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "أستمرار بقاء التقنية"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "أستمرار البقاء لفترة"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 دقيقة"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 دقيقة"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 دقيقة"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 ثانية"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 ثانية"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "تلقائي"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "تحرير التوجيه"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "بروكسي خارج الحدود"
+
+msgid "accountwizard_fi_transport"
+msgstr "النقل"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "غير قادر على أحتواء أسم المستخدم '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "فشل الحقل يحتوى على رموز %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "فشل الحقل يحتوي على مسافات"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "فشل الحقل يحتوى على مسافات"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"نطاق العنوان غير صالح.\n"
+"غير العنوان وأعد المحاولة."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "كلمة السر غير صحيحة. أعد كتابة كلمة السر."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr " القديمة SSL قوى "
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "الشهادات الخاطئ SSL تجاهل "
+
+msgid "accountwizard_if_advanced_port"
+msgstr "منفذ"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "تلقائي"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "معطل"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr " STUN الاستكشاف التلقائي"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "الأتصال بالخادم"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "النتائج"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN منفذ"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN خادم"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "متقدمة %s إعدادات"
+
+msgid "accountwizard_ti_login"
+msgstr "إعدادات الحساب: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "إعدادات الحساب: أختر الخادم"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "تلقائي"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"يمكن تفعيله Skype حساب واحد فقط .\n"
+"سجل %s خارج؟"
+
