@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-05-29 20:36+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Kriptolama gerekli"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP ve IM hesapları"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Gelişmiş ayarlar"
+
+msgid "accounts_bd_create_new"
+msgstr "Yeni hesap oluştur"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Facebook kullanıcı adını belirle"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Unutulan şifreyi kurtar"
+
+msgid "accounts_bd_new"
+msgstr "Yeni"
+
+msgid "accounts_bd_register"
+msgstr "Kayıt ol"
+
+msgid "accounts_bd_sign_in"
+msgstr "Giriş yap"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Gelişmiş ayarlar"
+
+msgid "accounts_fi_avatar"
+msgstr "Avatar"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Hesap silinsin mi? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Hesap silinsin mi? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Hesap oluşturulamıyor."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Hesap etkisizleşsin mi?\n"
+"%s\n"
+"Bu hesap şimdi çıkış yapacaktır."
+
+msgid "accounts_fi_disabled"
+msgstr "Etkisiz"
+
+msgid "accounts_fi_draft"
+msgstr "Giriş yapılmadı"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "%s için hesabı düzenle"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Kişisel bilgiyi düzenle"
+
+msgid "accounts_fi_enabled"
+msgstr "Etkin"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Önce adresi ve parolayı girin"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Önce kullanıcı adı ve parolayı girin"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "E-posta adresi yerine kullanıcı adı kullanın."
+
+msgid "accounts_fi_password"
+msgstr "Parola"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Port numarası dizi dışında (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Servise bağlanmakta sorun yaşanıyor. Sonra tekrar deneyin.in later."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Yeniden bağlan?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Parolayı doğrula"
+
+msgid "accounts_fi_screen_name"
+msgstr "Görünecek isim"
+
+msgid "accounts_fi_user_name"
+msgstr "Kullanıcı adı"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Adres"
+
+msgid "accounts_fi_username_exists"
+msgstr "%s hesap adı %s için zaten mevcut"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s giriş yaptı."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Anlık mesajlaşma, paylaşım ve web servisleri etkinleştirildi."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(hesap yok)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Telefon numaraları için kullan"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Sadece bir %s hesabı aktif olabilir. Hesabı etkisizleştir\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP ve IM hesapları"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Kullanıcı adı veya parola geçersiz"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Nokia Ovi ye giriş yapıldı: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Hesap kurulumu - Yeni Jabber hesabı:"
+
+msgid "accounts_ti_registering"
+msgstr "Kayıt oluyor %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Giriş yapılıyor %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Kullanıcı adı zaten kullanımda. Farklı deneyin."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Açık adresi keşfet"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Keep-alive mekanizması"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Keep-alive periyodu"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 dakika"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 dakika"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 dakika"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 saniye"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 dakika"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Oto"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Gevşek yönlendirme"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Giden vekil"
+
+msgid "accountwizard_fi_transport"
+msgstr "Taşıma"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Kullanıcı adı '%s' içeremez"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Alan karakterler içeremez %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Alan boşluk içeremez"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Alan boşluk içeremez"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Geçersiz alan adı adresi.\n"
+"Adresi değiştirin ve tekrar deneyin."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Parolalar eşleşmiyor. Parolayı tekrar yazın."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "eski SSLi zorla"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "SSL sertifika hatalarını yoksay"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Port"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Oto"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Kapalı"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Oto-algıla STUN "
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Sunucuya bağlan"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Kaynak"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN portu"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN sunucusu"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Gelişmiş %s ayarları"
+
+msgid "accountwizard_ti_login"
+msgstr "Hesap kurulumu: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Hesap kurulumu: Servis seçin"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Oto"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Sadece bir Skype hesabı aktif olabilir.\n"
+"%s çıkış yapsın mı?"
