@@ -1,0 +1,255 @@
+# kayle.sk <webmaster@kayle.sk>, 2010.
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.22 10:28+0200\n"
+"PO-Revision-Date: 2010-05-02 17:10+0200\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"X-Generator: Lokalize 1.0\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Vyžadovať šifrovanie"
+
+msgid "accounts_ap_accounts"
+msgstr "Účty VoIP a IM"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Pokročilé nastavenie"
+
+msgid "accounts_bd_create_new"
+msgstr "Zaregistrovať nový účet"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Nastaviť užívateľské meno siete Facebook"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Získať zabudnuté heslo"
+
+msgid "accounts_bd_new"
+msgstr "Nový"
+
+msgid "accounts_bd_register"
+msgstr "Zaregistrovať"
+
+msgid "accounts_bd_sign_in"
+msgstr "Prihlásiť sa"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Pokročilé nastavenia"
+
+msgid "accounts_fi_avatar"
+msgstr "Ikona"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Odstrániť účet %s?"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Odstrániť účet %s?"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Nemožno vytvoriť účet."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Deaktivovať účet?\n"
+"%s\n"
+"Účet bude odhlásený."
+
+msgid "accounts_fi_disabled"
+msgstr "Vypnutý"
+
+msgid "accounts_fi_draft"
+msgstr "Neprihlásený"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Upraviť účet pre %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Upraviť osobné informácie"
+
+msgid "accounts_fi_enabled"
+msgstr "Zapnutý"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Najskôr vložte adresu a heslo"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Najskôr vložte užívateľské meno a heslo"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Použite užívateľské meno namiesto e-mailové adresy."
+
+msgid "accounts_fi_password"
+msgstr "Heslo"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Číslo portu je mimo rozsah (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Problémy pri pripájaní k službe. Opakujte neskôr."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Obnoviť pripojenie?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Potvrďte heslo"
+
+msgid "accounts_fi_screen_name"
+msgstr "Prezývka"
+
+msgid "accounts_fi_user_name"
+msgstr "Užívateľské meno"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Adresa"
+
+msgid "accounts_fi_username_exists"
+msgstr "Účet s užívateľským menom %s už existuje pre %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "Užívateľ %s je prihlásený."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Zasielanie sprav IM, zdieľanie a webové služby boli aktivované."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(žiadne účty)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Použiť pre telefónne čísla"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Môže byť aktívny iba jeden účet %s. Deaktivovať účet\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "Účty VoIP a IM"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Nesprávne užívateľské meno alebo heslo."
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Prihlásený k službe Ovi by Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Nastavenie účtu – Nový účet protokolu Jabber:"
+
+msgid "accounts_ti_registering"
+msgstr "Registrovanie %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Prihlasovanie užívateľa %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Užívateľské meno sa už používa. Použite iné."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Zistiť verejnú adresu"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Mechanizmus udržovania aktivity"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Perióda udržovania aktivity"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minút"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minúta"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minúty"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 sekúnd"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minút"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Volné smerovanie"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Odchádzajúce proxy"
+
+msgid "accountwizard_fi_transport"
+msgstr "Prenos"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Užívateľské meno nesmie obsahovať '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Súbor nemôže obsahovať znaky %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Pole nemôže obsahovať medzery"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Súbor nemôže obsahovať medzery"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Neplatná adresa domény.\n"
+"Zmeňte adresu a opakujte akciu."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Heslá nie sú rovnaké. Napíšte heslo znova."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Použiť starý certifikát SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ignorovať chyby certifikátu SSL"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Port"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Vypnutý"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Autodetekcia STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Pripojenie k serveru"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Zdroj"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "Port STUN"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "Server STUN"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Pokročilé nastavenie účtu %s"
+
+msgid "accountwizard_ti_login"
+msgstr "Nastavenie účtu: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Nastavenie účtu – Zvolte službu:"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Auto"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Môže byť aktívny iba jeden účet Skype.\n"
+"Odhlásiť %s?"
