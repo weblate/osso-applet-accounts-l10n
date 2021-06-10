@@ -1,0 +1,247 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2011-11-06 15:27+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "رمزنگاری مورد نیاز است"
+
+msgid "accounts_ap_accounts"
+msgstr "حساب‌های کاربری مسنجر و ارتباطات صوتی"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "تنظیمات پیشرفته"
+
+msgid "accounts_bd_create_new"
+msgstr "ثبت حساب جدید"
+
+msgid "accounts_bd_facebook_username"
+msgstr "تعیین نام کاربری فیس بوک"
+
+msgid "accounts_bd_forgot_password"
+msgstr "بازیابی رمز عبور فراموش شده"
+
+msgid "accounts_bd_new"
+msgstr "جدید"
+
+msgid "accounts_bd_register"
+msgstr "ثبت نام"
+
+msgid "accounts_bd_sign_in"
+msgstr "ورود"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "تنظیمات پیشرفته"
+
+msgid "accounts_fi_avatar"
+msgstr "آواتار"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "حذف حساب؟ %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "حذف حساب؟ %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "قادر به ساخت حساب جدید نیست."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr "غیر فعال کردن حساب؟\n%s\nحساب خارج خواهد شد."
+
+msgid "accounts_fi_disabled"
+msgstr "غیر فعال"
+
+msgid "accounts_fi_draft"
+msgstr "وارد نشد"
+
+msgid "accounts_fi_edit_account_title"
+msgstr " %s ویرایش حساب برای"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "ویرایش اطلاعات شخصی"
+
+msgid "accounts_fi_enabled"
+msgstr "فعال"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "ابتدا آدرس و رمز عبور را وارد کنید"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "ابتدا نام کاربری و رمز عبور را وارد کنید"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "از نام کاربری به جای آدرس ایمیل استفاده کنید"
+
+msgid "accounts_fi_password"
+msgstr "رمز عبور"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "(1-65535) شماره ی پورت خارج از محدوده است"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "مشکلاتی در اتصال به سرویس وجود دارد. بعدا تلاش کنید"
+
+msgid "accounts_fi_reconnect_account"
+msgstr "اتصال مجدد؟"
+
+msgid "accounts_fi_retype_password"
+msgstr "تصدیق رمز عبور"
+
+msgid "accounts_fi_screen_name"
+msgstr "نام صفحه"
+
+msgid "accounts_fi_user_name"
+msgstr "نام کاربر"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "آدرس"
+
+msgid "accounts_fi_username_exists"
+msgstr "حساب کاربری با نام کاربری %s در حال حاضر برای %s موجود است"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s وارد شد."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "چت ، به اشتراک گذاری و سرویس‌های وب فعال شدند."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(حسابی وجود ندارد)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "برای شماره تلفن‌ها استفاده کنید"
+
+msgid "accounts_nc_activate_account"
+msgstr "فقط یک حساب %s می‌تواند فعال باشد. غیر فعال کردن حساب\n%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "حساب‌های کاربری مسنجر و ارتباطات صوتی"
+
+msgid "accounts_ti_auth_failed"
+msgstr "نام کاربری یا رمز عبور اشتباه است"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "ورود به حساب کاربری اُوی به واسطه‌ی نوکیا:%s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "جدید Jabber نصب حساب - حساب"
+
+msgid "accounts_ti_registering"
+msgstr "در حال ثبت %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "در حال ورود %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "نام کاربری در حال حاضر در حال استفاده است . نام کاربری دیگری را امتحان کنید."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "کشف آدرس عمومی"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "فعال نگه داشتن میکانیزم"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "فعال نگه داشتن مدت زمانی"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "پانزده دقیقه"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "یک دقیقه"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "دو دقیقه"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "سی ثانیه"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "شصت دقیقه"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "خودکار"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "مسیریابی سست"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "پروکسی خارج از خط"
+
+msgid "accountwizard_fi_transport"
+msgstr "حمل و نقل"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "نام کاربری نباید دارای '%s' باشد"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "فیلد نباید دارای کارکتر‌های %s باشد"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "فیلد نباید دارای فاصله باشد"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "فیلد نباید دارای فاصله باشد"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr "آدرس دامنه اشتباه است.\nآدرس را تعویض و دوباره سعی کنید."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "کلمات عبور با هم مطابقت ندارند. دوباره وارد کنید."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "استفاده از اس‌اس‌ال قدیمی"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "چشم‌پوشی از خطاهای گواهی اس‌اس‌ال"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "پورت"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "خودکار"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "خاموش"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "STUN کشف خودکار"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "اتصال به سرور"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "منبع"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN پورت"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN سرور"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "پیشرفته %s تنظیمات"
+
+msgid "accountwizard_ti_login"
+msgstr "نصب حساب: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "نصب حساب: انتخاب سرویس"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "خودکار"
+
+msgid "skype_nc_activate_account"
+msgstr "فقط یک حساب اسکایپ می‌تواند فعال باشد.\nحساب %s خارج شود؟"
