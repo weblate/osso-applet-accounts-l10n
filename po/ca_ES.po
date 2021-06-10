@@ -1,0 +1,246 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Es requereix xifrat"
+
+msgid "accounts_ap_accounts"
+msgstr "Comptes de VoIP i MI"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Preferències avançades"
+
+msgid "accounts_bd_create_new"
+msgstr "Registrar nou compte"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Definir nom d'usuari de Facebook"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Recuperar contrasenya oblidada"
+
+msgid "accounts_bd_new"
+msgstr "Nou"
+
+msgid "accounts_bd_register"
+msgstr "Registrar"
+
+msgid "accounts_bd_sign_in"
+msgstr "Connectar"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Preferències avançades"
+
+msgid "accounts_fi_avatar"
+msgstr "Imatge d'usuari"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Esborrar compte? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Esborrar compte? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "No s'ha pogut crear compte."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr "Deshabilitar compte?\n%s\nEs desconnectarà del compte."
+
+msgid "accounts_fi_disabled"
+msgstr "Desactivat"
+
+msgid "accounts_fi_draft"
+msgstr "No connectat"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Editar compte per %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Editar informació personal"
+
+msgid "accounts_fi_enabled"
+msgstr "Activat"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Introduïr adreça i contrasenya"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Introduïr nom d'usuari i contrasenya"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Utilitzar nom d'usuari en lloc d'adreça de correu-e."
+
+msgid "accounts_fi_password"
+msgstr "Contrasenya"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Rang de ports de sortida (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Problemes connectant amb el servei. Intenteu-ho més tard."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Reconnectar?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Verificar contrasenya"
+
+msgid "accounts_fi_screen_name"
+msgstr "Nom a mostrar"
+
+msgid "accounts_fi_user_name"
+msgstr "Nom d'usuari"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Adreça"
+
+msgid "accounts_fi_username_exists"
+msgstr "Compte amb el nom d'usuari %s ja existeix per %s."
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s s'ha connectat."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Xat, compartir i serveis web activats."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(no hi ha comptes)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Utilitzar per a trucades telefòniques"
+
+msgid "accounts_nc_activate_account"
+msgstr "Només un compte de %s pot estar actiu. Desactivar compte\n%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "Compte de VoIP i MI"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Nom d'usuari o contrasenya incorrectes"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Connectat a Ovi de Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Configuració de comptes - Nou compte de Jabber:"
+
+msgid "accounts_ti_registering"
+msgstr "Registrant %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Connectant a %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Nom d'usuari en ús. Provar-ne un altre."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Descobrir adreça pública."
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Mecanisme de manteniment de connexió"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Període de manteniment de connexió"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minuts"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minut"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minuts"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 segons"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minuts"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Enrutament lliure"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Servidor intermediari de sortida"
+
+msgid "accountwizard_fi_transport"
+msgstr "Transport"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "El nom d'usuari no pot contenir '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "El camp no pot contenir els caràcters %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "El camp no pot tenir espais"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "El camp no pot tenir espais"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr "Adreça incorrecta.\nCanvia l'adreça i intenta-ho de nou."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Les contrasenyes no coincideixen."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Forçar SSL antic"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ignorar errors de certificat SSL"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Port"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Inactiu"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Auto-detectar STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Connectar al servidor"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Recursos"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "Port STUN"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "Servidor STUN"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Preferències avançades de %s"
+
+msgid "accountwizard_ti_login"
+msgstr "Configuració del compte: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Configuració del compte: Triar servei"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Auto"
+
+msgid "skype_nc_activate_account"
+msgstr "Nomes pot estar actiu un compte d'Skype.\nDesconnectar %s?"
