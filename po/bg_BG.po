@@ -1,0 +1,246 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Задължително криптиране"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP и IM регистрации"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Допълнителни настройки"
+
+msgid "accounts_bd_create_new"
+msgstr "Нова регистрация"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Задаване на Facebook потребителско име"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Възстановяване на забравена парола"
+
+msgid "accounts_bd_new"
+msgstr "Нова"
+
+msgid "accounts_bd_register"
+msgstr "Регистриране"
+
+msgid "accounts_bd_sign_in"
+msgstr "Влизане"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Допълнителни настройки"
+
+msgid "accounts_fi_avatar"
+msgstr "Аватар"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Изтриване на регистрацията? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Изтриване на регистрацията? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Неуспешно добавяне на регистрация."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr "Забраняване на регистрацията?\n%s\nРегистрацията ще бъде изключена."
+
+msgid "accounts_fi_disabled"
+msgstr "Забранена"
+
+msgid "accounts_fi_draft"
+msgstr "Изключена"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Редактиране на регистрация %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Редактиране на личната информация"
+
+msgid "accounts_fi_enabled"
+msgstr "Активна"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Първо въведете адрес и парола"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Първо въведете потребителско име и парола"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Използване на потребителско име вместо адрес на е-поща."
+
+msgid "accounts_fi_password"
+msgstr "Парола"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Номера на порта е извън диапазона (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Има проблеми с връзката към услугата. Моля опитайте отново."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Свързване отново?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Проверка на паролата"
+
+msgid "accounts_fi_screen_name"
+msgstr "Прякор"
+
+msgid "accounts_fi_user_name"
+msgstr "Потребителско име"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Адрес"
+
+msgid "accounts_fi_username_exists"
+msgstr "Регистрация с потребителско име %s вече съществува за %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s се включи."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Интернет съобщенията, услугите и споделянето са активирани."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(няма регистрации)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Да се използва за мобилни номера"
+
+msgid "accounts_nc_activate_account"
+msgstr "Само една %s регистрация може да бъде активна. Забраняване на %s регистрация?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP и IM регистрации"
+
+msgid "accounts_ti_auth_failed"
+msgstr "Грешно потребителско име или парола"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Свързани към Ovi by Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Конфигуриране на регистрация - нова Jabber регистрация:"
+
+msgid "accounts_ti_registering"
+msgstr "Регистриране %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Свързване %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Потребителското име е вече съществува. Моля опитайте друго."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Откриване на публичния адрес"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Начин за поддържане на връзката"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Период за поддържане на връзката"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 минути"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 минута"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 минути"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 секунди"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 минути"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Автоматично"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Loose routing"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Изходящо прокси"
+
+msgid "accountwizard_fi_transport"
+msgstr "Транспорт"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Потребителското име не може да съдържа '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Полето не може да съдържа символите %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Полето не може да съдържа интервали"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Полето не може да съдържа интервали"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr "Грешен домейн адрес.\nПроменете адреса и опитайте отново."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Паролите не съвпадат. Въведете паролата отново."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Използване на стар SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Игнориране на грешките на SSL удостоверенията"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Порт"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Автоматично"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Изключено"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Автоматично засичане на STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Свързване със сървър"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Ресурс"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN порт"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN сървър"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Допълнителни %s настройки"
+
+msgid "accountwizard_ti_login"
+msgstr "Конфигуриране на регистрация: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Конфигуриране на регистрация: Избор на услуга"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Автоматично"
+
+msgid "skype_nc_activate_account"
+msgstr "Само една Skype регистрация може да бъде активна.\nИзлизане от %s?"
