@@ -1,0 +1,246 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Encryption required"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP 및 IM 계정"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "고급 설정"
+
+msgid "accounts_bd_create_new"
+msgstr "새로운 계정 등록"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Define Facebook user name"
+
+msgid "accounts_bd_forgot_password"
+msgstr "비밀번호 찾기"
+
+msgid "accounts_bd_new"
+msgstr "새로 만들기"
+
+msgid "accounts_bd_register"
+msgstr "등록"
+
+msgid "accounts_bd_sign_in"
+msgstr "로그인"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "고급 설정"
+
+msgid "accounts_fi_avatar"
+msgstr "아바타"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "%s 계정을 삭제하시겠습니까?"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "%s 계정을 삭제하시겠습니까?"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "계정을 만들 수 없습니다."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr "계정을 비활성화 하시겠습니까?\n%s\n계정이 로그아웃 될 것입니다."
+
+msgid "accounts_fi_disabled"
+msgstr "비활성화됨"
+
+msgid "accounts_fi_draft"
+msgstr "로그인 되지 않음"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "%s 계정 수정"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "개인 정보 수정"
+
+msgid "accounts_fi_enabled"
+msgstr "활성화됨"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Enter address and password first"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "사용자 이름과 비밀번호를 입력해주세요"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Use user name instead of e-mail address."
+
+msgid "accounts_fi_password"
+msgstr "비밀번호"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "포트 번호가 범위를 벗어났습니다 (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "서비스에 연결하는데 문제가 발생했습니다. 나중에 다시 시도해주세요."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "다시 연결하시겠습니까?"
+
+msgid "accounts_fi_retype_password"
+msgstr "비밀번호 확인"
+
+msgid "accounts_fi_screen_name"
+msgstr "대화명"
+
+msgid "accounts_fi_user_name"
+msgstr "사용자 이름"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "주소"
+
+msgid "accounts_fi_username_exists"
+msgstr "계정의 사용자 이름 %s이 이미 %s에 존재합니다."
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s 이 로그인 되었습니다"
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "채팅, 공유 및 웹 서비스가 활성화 되었습니다."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(계정 없음)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "전화번호를 위해서 사용"
+
+msgid "accounts_nc_activate_account"
+msgstr "하나의 %s 계정만 활성화 할 수 있습니다. %s을 비활성화 하시겠습니까?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP 및 IM 계정"
+
+msgid "accounts_ti_auth_failed"
+msgstr "사용자 이름 혹은 비밀번호가 올바르지 않습니다"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "노키아가 제공하는 Ovi 로그인: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "계정 설정 - 새로운 Jabber 계정:"
+
+msgid "accounts_ti_registering"
+msgstr "%s 을 등록 중입니다"
+
+msgid "accounts_ti_signing_in"
+msgstr "%s 에 로그인 중입니다"
+
+msgid "accounts_ti_username_in_use"
+msgstr "사용자 이름이 이미 사용 중입니다. 다른 이름을 사용해주세요."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "공개주소 발견"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "접속유지 방법"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "접속유지 간격"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15분"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1분"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2분"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30초"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60분"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "자동"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "루스 라우팅"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "아웃바운드 프록시"
+
+msgid "accountwizard_fi_transport"
+msgstr "트랜스포트"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "사용자 이름에 '%s' 문자를 포함할 수 없습니다"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "항목에 %s 문자를 포함할 수 없습니다"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "항목에 공백을 포함할 수 없습니다"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "항목에 공백을 포함할 수 없습니다"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr "잘못된 도메인 주소입니다.\n올바른 주소를 입력하시고 다시 시도해주세요."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "비밀번호가 맞지 않습니다. 비밀번호를 다시 입력해주세요."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "옛 SSL방식 강제설정"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "SSL 인증서 오류를 무시"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "포트"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "자동"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "해제"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "STUN 자동감지"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "서버에 접속"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "리소스"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN 포트"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN 서버"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "고급 %s 설정"
+
+msgid "accountwizard_ti_login"
+msgstr "계정 설정: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "계정 설정: 서비스 선택"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "자동"
+
+msgid "skype_nc_activate_account"
+msgstr "하나의 Skype 계정만 활성화 할 수 있습니다.\n%s 을 로그아웃 하시겠습니까?"
