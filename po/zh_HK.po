@@ -1,0 +1,246 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "需要加密"
+
+msgid "accounts_ap_accounts"
+msgstr "網絡電話和即時通訊"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "進階設定"
+
+msgid "accounts_bd_create_new"
+msgstr "註冊新帳號"
+
+msgid "accounts_bd_facebook_username"
+msgstr "定義 Facebook 使用者名稱"
+
+msgid "accounts_bd_forgot_password"
+msgstr "忘記密碼？"
+
+msgid "accounts_bd_new"
+msgstr "新增"
+
+msgid "accounts_bd_register"
+msgstr "註冊"
+
+msgid "accounts_bd_sign_in"
+msgstr "登入"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "進階設定"
+
+msgid "accounts_fi_avatar"
+msgstr "頭像"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "刪除帳號? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "刪除帳號? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "無法建立帳號."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr "禁用帳號?\n%s\n該帳號將被登出"
+
+msgid "accounts_fi_disabled"
+msgstr "停用"
+
+msgid "accounts_fi_draft"
+msgstr "尚未登入"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "編輯帳號 %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "編輯個人資料"
+
+msgid "accounts_fi_enabled"
+msgstr "啟動"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "請先輸入地址和密碼"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "請先輸入帳號和密碼"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "使用帳號名稱而非電郵地址."
+
+msgid "accounts_fi_password"
+msgstr "密碼"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "連接埠號超出範圍 (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "連線到該服務過程中出現問題, 請稍後再試"
+
+msgid "accounts_fi_reconnect_account"
+msgstr "重新連線?"
+
+msgid "accounts_fi_retype_password"
+msgstr "確認密碼"
+
+msgid "accounts_fi_screen_name"
+msgstr "暱稱"
+
+msgid "accounts_fi_user_name"
+msgstr "帳號名稱"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "地址"
+
+msgid "accounts_fi_username_exists"
+msgstr "帳號名稱 %s 已經存在 %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s 已登入."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "已啟用聊天，分享和網路服務."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(沒有任何帳號)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "使用電話號碼"
+
+msgid "accounts_nc_activate_account"
+msgstr "只有一個帳號 %s 可被啟用. 停用帳號\n %s ?"
+
+msgid "accounts_ti_accounts"
+msgstr "網絡電話和即時通訊"
+
+msgid "accounts_ti_auth_failed"
+msgstr "帳號或密碼不正確"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "登入諾基亞Ovi: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "帳號設定 - 新Jabber帳戶:"
+
+msgid "accounts_ti_registering"
+msgstr "註冊 %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "登入 %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "帳號已被使用, 請嘗試其他帳號"
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "探索公共地址"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "保持在線機制"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "保持連線時間"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 分"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 分"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 分"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 秒"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 分"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "自動"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "允許路由"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "使用代理"
+
+msgid "accountwizard_fi_transport"
+msgstr "傳送"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "帳號名稱不能包含 '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "字串不能包含字符 %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "字串不能包含空格"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "字串不能包含空格"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr "無效的網域地址\n變更地址, 然後再試一次."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "密碼錯誤, 再次輸入密碼."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "強制使用舊版SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "略過SSL證書錯誤"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "連接埠"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "自動"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "離線"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "自動檢測STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "連接到伺服器"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "資源"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN連接埠"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN伺服器"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "進階 %s 設定"
+
+msgid "accountwizard_ti_login"
+msgstr "帳號設定: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "帳號設定：選擇服務"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "自動"
+
+msgid "skype_nc_activate_account"
+msgstr "同一時間只能啟用一個Skype帳戶.\n 登出 %s ?"
