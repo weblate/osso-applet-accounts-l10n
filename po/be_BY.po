@@ -1,0 +1,246 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2012-05-25 15:06+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Патрэбна шыфраванне"
+
+msgid "accounts_ap_accounts"
+msgstr "Рахункі VoIP і IM"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Дадатковыя налады"
+
+msgid "accounts_bd_create_new"
+msgstr "Зарэгістраваць новы рахунак"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Вызначыць імя карыстальніка Facebook"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Аднавіць забыты пароль"
+
+msgid "accounts_bd_new"
+msgstr "Новы"
+
+msgid "accounts_bd_register"
+msgstr "Зарэгістравацца"
+
+msgid "accounts_bd_sign_in"
+msgstr "Увайсці"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Дадатковыя налады"
+
+msgid "accounts_fi_avatar"
+msgstr "Аватар"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Выдаліць рахунак? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Выдаліць рахунак? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Немагчыма зрабіць рахунак."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr "Адключыць рахунак? \n%s \nРахунак выйдзе офлайн."
+
+msgid "accounts_fi_disabled"
+msgstr "Выключаны"
+
+msgid "accounts_fi_draft"
+msgstr "Не ўвайшоўы"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Рэдагаваць рахунак для %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Рэдагаваць асабістую інфармацыю"
+
+msgid "accounts_fi_enabled"
+msgstr "Уключаны"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Спачатку ўвядзіце адрас і пароль"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Спачатку ўвядзіце шмя карыстальніка і пароль"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Выкарыстоўваць імя карыстальніка замест адраса электроннай пошты"
+
+msgid "accounts_fi_password"
+msgstr "Пароль"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Нумар порта з дыяпазону (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Праблемы з падключэннем да службы. Паспрабуйце зноў пазжэй."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Перападлучыцца?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Пацведзіце пароль"
+
+msgid "accounts_fi_screen_name"
+msgstr "Адлюстроўванае імя"
+
+msgid "accounts_fi_user_name"
+msgstr "Імя карыстальніка"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Адрас"
+
+msgid "accounts_fi_username_exists"
+msgstr "Рахунак з назвай %s ужо існуе для %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s увайшоў."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Чат, абмен і сеціўныя-сэрвісы актываваныя."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(няма рахункаў)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Выкарыстоўваць для нумароў тэлефона"
+
+msgid "accounts_nc_activate_account"
+msgstr "Толькі адзін рахунак %s можа быць актыўны. Адключыць рахунак %s?"
+
+msgid "accounts_ti_accounts"
+msgstr "Рахункі VoIP і IM "
+
+msgid "accounts_ti_auth_failed"
+msgstr "Імя карыстальніка ці пароль няправільныя"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Увайшоў у Ovi by Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Налада рахункаў - Новы рахунак Jabber:"
+
+msgid "accounts_ti_registering"
+msgstr "Рэгістрацыя %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Уваход у %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "Імя карыстальніка ўжо выкарыстоўваецца. Паспрабуйце іншае."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Адкрыць публічны адрас"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Механізм keep-alive"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Перыяд keep-alive"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 хвілін"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 хвіліна"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 хвіліны"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 секунд"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 хвілін"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Аўта"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Loose routing"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Зыхадзячы проксі"
+
+msgid "accountwizard_fi_transport"
+msgstr "Транспарт"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "Імя карыстальніка не можа змяшчаць '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Поле павінна змяшчаць сімвалы %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Поле не можа змяшчаць прабелаў"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Поле не можа змяшчаць прабелаў"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr "Неправільны адрас дамену. \nЗмяніце адрас і паспрабуйце зноў."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Паролі не супадаюць. Набярыце пароль ізноў."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Выкарыстоўваць старога SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ігнараваць памылкі сертыфікатаў SSL"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Порт"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Аўта"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Выключана"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Аўтаматычнае вызначэнне STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Падлучыцца да сервера"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Рэсурс"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "Порт STUN"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "Сервер STUN"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Дадатковыя налады %s"
+
+msgid "accountwizard_ti_login"
+msgstr "Налада рахункаў: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Налада рахункаў: Выбраць службу"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Аўта"
+
+msgid "skype_nc_activate_account"
+msgstr "Толькі адзін рахунак Skype можа быць актыўны.\nВыйсці з %s?"
