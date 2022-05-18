@@ -11,6 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
 
+msgid "account_if_advanced_require_encryption"
+msgstr "Encryption required"
+
 msgid "accounts_ap_accounts"
 msgstr "حسابات الدردشة و VOIP"
 
@@ -19,6 +22,9 @@ msgstr "إعدادات متقدمة"
 
 msgid "accounts_bd_create_new"
 msgstr "تسجيل حساب جديد"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Define Facebook username"
 
 msgid "accounts_bd_forgot_password"
 msgstr "إستعادة كلمة السر المفقوده"
@@ -68,8 +74,14 @@ msgstr "تحرير المعلومات الشخصية"
 msgid "accounts_fi_enabled"
 msgstr "مفعل"
 
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Enter address and password first"
+
 msgid "accounts_fi_enter_fields_first"
 msgstr "أدخل أسم المستخدم وكلمة السر أولا"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Use username instead of e-mail address."
 
 msgid "accounts_fi_password"
 msgstr "كلمة السر"
@@ -91,6 +103,15 @@ msgstr "الأسم الظاهر"
 
 msgid "accounts_fi_user_name"
 msgstr "أسم المستخدم"
+
+msgid "accounts_fi_server"
+msgstr "Server"
+
+msgid "accounts_fi_nickname"
+msgstr "Nickname"
+
+msgid "accounts_fi_real_name"
+msgstr "Real name"
 
 msgid "accounts_fi_user_name_sip"
 msgstr "العنوان"

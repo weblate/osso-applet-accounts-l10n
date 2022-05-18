@@ -104,6 +104,15 @@ msgstr "Прякор"
 msgid "accounts_fi_user_name"
 msgstr "Потребителско име"
 
+msgid "accounts_fi_server"
+msgstr "Server"
+
+msgid "accounts_fi_nickname"
+msgstr "Nickname"
+
+msgid "accounts_fi_real_name"
+msgstr "Real name"
+
 msgid "accounts_fi_user_name_sip"
 msgstr "Адрес"
 
