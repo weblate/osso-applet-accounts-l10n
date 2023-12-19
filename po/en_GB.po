@@ -84,7 +84,7 @@ msgid "accounts_fi_facebook_use_username"
 msgstr "Use username instead of e-mail address."
 
 msgid "accounts_fi_facebook_sync_interval"
-msgstr "Buddy list sync interval"
+msgstr "Buddy list refresh interval"
 
 msgid "accounts_fi_facebook_mark_read"
 msgstr "Mark messages as read on focus"
