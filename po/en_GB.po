@@ -83,6 +83,24 @@ msgstr "Enter user name and password first"
 msgid "accounts_fi_facebook_use_username"
 msgstr "Use username instead of e-mail address."
 
+msgid "accounts_fi_facebook_sync_interval"
+msgstr "Buddy list sync interval"
+
+msgid "accounts_fi_facebook_mark_read"
+msgstr "Mark messages as read on focus"
+
+msgid "accounts_fi_facebook_mark_read_available"
+msgstr "Mark messages as read only when available"
+
+msgid "accounts_fi_show_self"
+msgstr "Show own messages"
+
+msgid "accounts_fi_show_unread"
+msgstr "Show unread messages"
+
+msgid "accounts_fi_facebook_group_chat_open"
+msgstr "New group chats with incoming messages"
+
 msgid "accounts_fi_password"
 msgstr "Password"
 
@@ -109,6 +127,21 @@ msgstr "Address"
 
 msgid "accounts_fi_username_exists"
 msgstr "Account with user name %s already exists for %s"
+
+msgid "accounts_fi_real_name"
+msgstr "Real name"
+
+msgid "accounts_fi_nickname"
+msgstr "Nickname"
+
+msgid "accounts_fi_server"
+msgstr "Server"
+
+msgid "accounts_fi_email"
+msgstr "E-mail"
+
+msgid "accounts_fi_phone"
+msgstr "Phone"
 
 msgid "accounts_ia_account_setup_successful_with_conn"
 msgstr "%s is signed in."
