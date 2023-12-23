@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: osso-applet-accounts 20100222102832\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.22 10:28+0200\n"
-"PO-Revision-Date: 2010.02.22 10:28+0200\n"
-"Last-Translator:\n"
-"Language-Team: sv_SE\n"
+"PO-Revision-Date: 2023-12-24 12:06+0000\n"
+"Last-Translator: bittin1ddc447d824349b2 <bittin@reimu.nl>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-applet-accounts-l10n/sv/>\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 msgid "account_if_advanced_require_encryption"
 msgstr "Kryptering krävs"
@@ -259,3 +262,36 @@ msgid "skype_nc_activate_account"
 msgstr ""
 "Endast ett Skype-konto kan vara aktivt.\n"
 "Logga ut %s?"
+
+msgid "accounts_fi_show_self"
+msgstr "Visa egna meddelanden"
+
+msgid "accounts_fi_facebook_mark_read_available"
+msgstr "Markera meddelanden som lästa endast när de är tillgängliga"
+
+msgid "accounts_fi_phone"
+msgstr "Telefon"
+
+msgid "accounts_fi_server"
+msgstr "Server"
+
+msgid "accounts_fi_real_name"
+msgstr "Riktigt namn"
+
+msgid "accounts_fi_facebook_sync_interval"
+msgstr "Uppdateringsintervall för vänlista"
+
+msgid "accounts_fi_show_unread"
+msgstr "Visa olästa meddelanden"
+
+msgid "accounts_fi_email"
+msgstr "E-post"
+
+msgid "accounts_fi_facebook_mark_read"
+msgstr "Markera meddelanden som lästa vid fokus"
+
+msgid "accounts_fi_facebook_group_chat_open"
+msgstr "Nya gruppchattar med inkommande meddelanden"
+
+msgid "accounts_fi_nickname"
+msgstr "Smeknamn"
