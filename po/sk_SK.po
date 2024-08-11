@@ -5,14 +5,16 @@ msgstr ""
 "Project-Id-Version: osso-applet-accounts 20090706094240\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2010.02.22 10:28+0200\n"
-"PO-Revision-Date: 2010-05-02 17:10+0200\n"
-"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
-"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"PO-Revision-Date: 2023-12-24 12:06+0000\n"
+"Last-Translator: menom <menom1@protonmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-applet-accounts-l10n/sk/>\n"
+"Language: sk_SK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 msgid "account_if_advanced_require_encryption"
 msgstr "Vyžadovať šifrovanie"
@@ -262,3 +264,36 @@ msgid "skype_nc_activate_account"
 msgstr ""
 "Môže byť aktívny iba jeden účet Skype.\n"
 "Odhlásiť %s?"
+
+msgid "accounts_fi_show_self"
+msgstr "Zobraziť vlastné správy"
+
+msgid "accounts_fi_facebook_mark_read_available"
+msgstr "Označiť správy ako prečítané, iba ak sú dostupné"
+
+msgid "accounts_fi_phone"
+msgstr "Telefón"
+
+msgid "accounts_fi_server"
+msgstr "Server"
+
+msgid "accounts_fi_real_name"
+msgstr "Skutočné meno"
+
+msgid "accounts_fi_facebook_sync_interval"
+msgstr "Interval obnovenia zoznamu priateľov"
+
+msgid "accounts_fi_show_unread"
+msgstr "Zobraziť neprečítané správy"
+
+msgid "accounts_fi_email"
+msgstr "E-mail"
+
+msgid "accounts_fi_facebook_mark_read"
+msgstr "Označiť správy ako prečítané po zameraní"
+
+msgid "accounts_fi_facebook_group_chat_open"
+msgstr "Nové skupinové rozhovory s prichádzajúcimi správami"
+
+msgid "accounts_fi_nickname"
+msgstr "Prezývka"

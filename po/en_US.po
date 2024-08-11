@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: osso-applet-accounts 20100222102832\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.22 10:28+0200\n"
-"PO-Revision-Date: 2010.02.22 10:28+0200\n"
-"Last-Translator:\n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2024-08-11 09:21+0000\n"
+"Last-Translator: Ivaylo Dimitrov <ivo.g.dimitrov.75@gmail.com>\n"
+"Language-Team: English (United States) <https://hosted.weblate.org/projects/"
+"maemo-leste/osso-applet-accounts-l10n/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 msgid "account_if_advanced_require_encryption"
 msgstr "Encryption required"
@@ -259,3 +262,39 @@ msgid "skype_nc_activate_account"
 msgstr ""
 "Only one Skype account can be active.\n"
 "Log %s out?"
+
+msgid "accounts_fi_facebook_mark_read"
+msgstr "Mark messages as read on focus"
+
+msgid "accounts_fi_facebook_mark_read_available"
+msgstr "Mark messages as read only when available"
+
+msgid "accounts_fi_show_self"
+msgstr "Show own messages"
+
+msgid "accounts_fi_show_unread"
+msgstr "Show unread messages"
+
+msgid "accounts_fi_facebook_group_chat_open"
+msgstr "New group chats with incoming messages"
+
+msgid "accounts_fi_real_name"
+msgstr "Real name"
+
+msgid "accounts_fi_nickname"
+msgstr "Nickname"
+
+msgid "accounts_fi_server"
+msgstr "Server"
+
+msgid "accounts_fi_email"
+msgstr "E-mail"
+
+msgid "accounts_fi_phone"
+msgstr "Phone"
+
+msgid "accounts_fi_facebook_sync_interval"
+msgstr "Buddy list refresh interval"
+
+msgid "accounts_fi_device_name"
+msgstr "Device name"
