@@ -143,6 +143,9 @@ msgstr "E-mail"
 msgid "accounts_fi_phone"
 msgstr "Phone"
 
+msgid "accounts_fi_device_name"
+msgstr "Device name"
+
 msgid "accounts_ia_account_setup_successful_with_conn"
 msgstr "%s is signed in."
 
