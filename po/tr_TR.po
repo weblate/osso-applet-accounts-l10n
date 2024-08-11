@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: osso-applet-accounts 20090706094240\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.07.06 09:42+0300\n"
-"PO-Revision-Date: 2021-05-26 12:33+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-applet-accounts-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 msgid "account_if_advanced_require_encryption"
 msgstr "Kriptolama gerekli"
@@ -93,7 +93,7 @@ msgid "accounts_fi_port_out_of_range"
 msgstr "Port numarası dizi dışında (1-65535)"
 
 msgid "accounts_fi_problems_service_connection"
-msgstr "Servise bağlanmakta sorun yaşanıyor. Sonra tekrar deneyin.in later."
+msgstr "Hizmete bağlanmakta sorun yaşanıyor. Sonra tekrar deneyin."
 
 msgid "accounts_fi_reconnect_account"
 msgstr "Yeniden bağlan?"
@@ -111,7 +111,7 @@ msgid "accounts_fi_server"
 msgstr "Server"
 
 msgid "accounts_fi_nickname"
-msgstr "Nickname"
+msgstr "Lakap"
 
 msgid "accounts_fi_real_name"
 msgstr "Real name"
@@ -126,7 +126,7 @@ msgid "accounts_ia_account_setup_successful_with_conn"
 msgstr "%s giriş yaptı."
 
 msgid "accounts_ia_account_setup_successful_with_conn_nokia"
-msgstr "Anlık mesajlaşma, paylaşım ve web servisleri etkinleştirildi."
+msgstr "Anlık mesajlaşma, paylaşım ve web hizmetleri etkinleştirildi."
 
 msgid "accounts_ia_no_accounts"
 msgstr "(hesap yok)"
@@ -253,7 +253,7 @@ msgid "accountwizard_ti_login"
 msgstr "Hesap kurulumu: %s"
 
 msgid "accountwizard_ti_select_service"
-msgstr "Hesap kurulumu: Servis seçin"
+msgstr "Hesap kurulumu: Hizmet seçin"
 
 msgid "accountwizard_transport_va_auto"
 msgstr "Oto"
@@ -262,3 +262,30 @@ msgid "skype_nc_activate_account"
 msgstr ""
 "Sadece bir Skype hesabı aktif olabilir.\n"
 "%s çıkış yapsın mı?"
+
+msgid "accounts_fi_device_name"
+msgstr "Aygıt adı"
+
+msgid "accounts_fi_facebook_mark_read"
+msgstr "Odaklanıldığında mesajları okundu olarak işaretle"
+
+msgid "accounts_fi_facebook_mark_read_available"
+msgstr "Yalnızca uygun olduğunda mesajları okundu olarak işaretle"
+
+msgid "accounts_fi_show_self"
+msgstr "Kendi mesajlarını göster"
+
+msgid "accounts_fi_show_unread"
+msgstr "Okunmayan mesajları göster"
+
+msgid "accounts_fi_facebook_group_chat_open"
+msgstr "Gelen mesajları olan yeni grup sohbetleri"
+
+msgid "accounts_fi_email"
+msgstr "E-posta"
+
+msgid "accounts_fi_phone"
+msgstr "Telefon"
+
+msgid "accounts_fi_facebook_sync_interval"
+msgstr "Arkadaş listesi yenileme aralığı"
