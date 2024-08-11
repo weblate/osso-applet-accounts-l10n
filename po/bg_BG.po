@@ -108,13 +108,13 @@ msgid "accounts_fi_user_name"
 msgstr "Потребителско име"
 
 msgid "accounts_fi_server"
-msgstr "Server"
+msgstr "Сървър"
 
 msgid "accounts_fi_nickname"
-msgstr "Nickname"
+msgstr "Псевдоним"
 
 msgid "accounts_fi_real_name"
-msgstr "Real name"
+msgstr "Истинско име"
 
 msgid "accounts_fi_user_name_sip"
 msgstr "Адрес"
@@ -266,12 +266,6 @@ msgstr "Съобщ. са прочетени само при наличност"
 msgid "accounts_fi_phone"
 msgstr "Телефон"
 
-msgid "accounts_fi_server"
-msgstr "Сървър"
-
-msgid "accounts_fi_real_name"
-msgstr "Истинско име"
-
 msgid "accounts_fi_facebook_sync_interval"
 msgstr "Инт. на опресняване на приятели"
 
@@ -286,9 +280,6 @@ msgstr "Съобщенията са прочетени при фокус"
 
 msgid "accounts_fi_facebook_group_chat_open"
 msgstr "Нов групов разговор при постъпило съобщ."
-
-msgid "accounts_fi_nickname"
-msgstr "Псевдоним"
 
 msgid "accounts_fi_device_name"
 msgstr "Име на устройство"

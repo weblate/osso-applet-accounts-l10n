@@ -113,16 +113,16 @@ msgid "accounts_fi_server"
 msgstr "Server"
 
 msgid "accounts_fi_nickname"
-msgstr "Nickname"
+msgstr "Prezývka"
 
 msgid "accounts_fi_real_name"
-msgstr "Real name"
+msgstr "Skutočné meno"
 
 msgid "accounts_fi_user_name_sip"
 msgstr "Adresa"
 
 msgid "accounts_fi_username_exists"
-msgstr "Účet s užívateľským menom %s už existuje pre %s"
+msgstr "Účet s užívateľským menom %s už existuje pre %s"
 
 msgid "accounts_ia_account_setup_successful_with_conn"
 msgstr "Užívateľ %s je prihlásený."
@@ -172,19 +172,19 @@ msgid "accountwizard_fi_keepalive_period"
 msgstr "Perióda udržovania aktivity"
 
 msgid "accountwizard_fi_keepalive_period_va_15_min"
-msgstr "15 minút"
+msgstr "15 minút"
 
 msgid "accountwizard_fi_keepalive_period_va_1_min"
-msgstr "1 minúta"
+msgstr "1 minúta"
 
 msgid "accountwizard_fi_keepalive_period_va_2_min"
-msgstr "2 minúty"
+msgstr "2 minúty"
 
 msgid "accountwizard_fi_keepalive_period_va_30_sec"
-msgstr "30 sekúnd"
+msgstr "30 sekúnd"
 
 msgid "accountwizard_fi_keepalive_period_va_60_min"
-msgstr "60 minút"
+msgstr "60 minút"
 
 msgid "accountwizard_fi_keepalive_period_va_auto"
 msgstr "Auto"
@@ -237,7 +237,7 @@ msgid "accountwizard_li_advanced_autodetect_stun"
 msgstr "Autodetekcia STUN"
 
 msgid "accountwizard_li_advanced_connect_server"
-msgstr "Pripojenie k serveru"
+msgstr "Pripojenie k serveru"
 
 msgid "accountwizard_li_advanced_resource"
 msgstr "Zdroj"
@@ -274,12 +274,6 @@ msgstr "Označiť správy ako prečítané, iba ak sú dostupné"
 msgid "accounts_fi_phone"
 msgstr "Telefón"
 
-msgid "accounts_fi_server"
-msgstr "Server"
-
-msgid "accounts_fi_real_name"
-msgstr "Skutočné meno"
-
 msgid "accounts_fi_facebook_sync_interval"
 msgstr "Interval obnovenia zoznamu priateľov"
 
@@ -294,6 +288,3 @@ msgstr "Označiť správy ako prečítané po zameraní"
 
 msgid "accounts_fi_facebook_group_chat_open"
 msgstr "Nové skupinové rozhovory s prichádzajúcimi správami"
-
-msgid "accounts_fi_nickname"
-msgstr "Prezývka"

@@ -111,10 +111,10 @@ msgid "accounts_fi_server"
 msgstr "Server"
 
 msgid "accounts_fi_nickname"
-msgstr "Nickname"
+msgstr "Smeknamn"
 
 msgid "accounts_fi_real_name"
-msgstr "Real name"
+msgstr "Riktigt namn"
 
 msgid "accounts_fi_user_name_sip"
 msgstr "Adress"
@@ -272,12 +272,6 @@ msgstr "Markera meddelanden som lästa endast när de är tillgängliga"
 msgid "accounts_fi_phone"
 msgstr "Telefon"
 
-msgid "accounts_fi_server"
-msgstr "Server"
-
-msgid "accounts_fi_real_name"
-msgstr "Riktigt namn"
-
 msgid "accounts_fi_facebook_sync_interval"
 msgstr "Uppdateringsintervall för vänlista"
 
@@ -292,6 +286,3 @@ msgstr "Markera meddelanden som lästa vid fokus"
 
 msgid "accounts_fi_facebook_group_chat_open"
 msgstr "Nya gruppchattar med inkommande meddelanden"
-
-msgid "accounts_fi_nickname"
-msgstr "Smeknamn"

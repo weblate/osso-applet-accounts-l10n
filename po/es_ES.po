@@ -109,13 +109,13 @@ msgid "accounts_fi_user_name"
 msgstr "Nombre de usuario"
 
 msgid "accounts_fi_server"
-msgstr "Server"
+msgstr "Servidor"
 
 msgid "accounts_fi_nickname"
-msgstr "Nickname"
+msgstr "Apodo"
 
 msgid "accounts_fi_real_name"
-msgstr "Real name"
+msgstr "Nombre verdadero"
 
 msgid "accounts_fi_user_name_sip"
 msgstr "Dirección"
@@ -273,12 +273,6 @@ msgstr "Marcar mensajes como sólo lectura cuando estén disponibles"
 msgid "accounts_fi_phone"
 msgstr "Teléfono"
 
-msgid "accounts_fi_server"
-msgstr "Servidor"
-
-msgid "accounts_fi_real_name"
-msgstr "Nombre verdadero"
-
 msgid "accounts_fi_facebook_sync_interval"
 msgstr "Intervalo de actualización de la lista de amigos"
 
@@ -293,6 +287,3 @@ msgstr "Marcar mensajes como leídos al enfocar"
 
 msgid "accounts_fi_facebook_group_chat_open"
 msgstr "Nuevos chats de grupo con mensajes entrantes"
-
-msgid "accounts_fi_nickname"
-msgstr "Apodo"

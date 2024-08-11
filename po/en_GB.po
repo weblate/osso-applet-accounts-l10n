@@ -137,15 +137,6 @@ msgstr "Address"
 msgid "accounts_fi_username_exists"
 msgstr "Account with user name %s already exists for %s"
 
-msgid "accounts_fi_real_name"
-msgstr "Real name"
-
-msgid "accounts_fi_nickname"
-msgstr "Nickname"
-
-msgid "accounts_fi_server"
-msgstr "Server"
-
 msgid "accounts_fi_email"
 msgstr "E-mail"
 
