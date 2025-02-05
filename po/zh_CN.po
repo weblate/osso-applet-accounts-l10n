@@ -6,16 +6,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.07.06 09:42+0300\n"
-"PO-Revision-Date: 2022-08-15 07:17+0000\n"
-"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"maemo-leste/osso-applet-accounts-l10n/zh_Hans/>\n"
+"PO-Revision-Date: 2025-02-06 23:01+0000\n"
+"Last-Translator: coio <ddllkl@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/maemo-leste/osso-applet-accounts-l10n/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "account_if_advanced_require_encryption"
 msgstr "需要加密"
@@ -61,7 +61,7 @@ msgstr "无法创建账户."
 
 msgid "accounts_fi_disable_confirmation"
 msgstr ""
-"删除账户%s\n"
+"删除账户%s？\n"
 "账户将被登出."
 
 msgid "accounts_fi_disabled"
@@ -113,7 +113,7 @@ msgid "accounts_fi_server"
 msgstr "Server"
 
 msgid "accounts_fi_nickname"
-msgstr "Nickname"
+msgstr "昵称"
 
 msgid "accounts_fi_real_name"
 msgstr "Real name"
@@ -137,7 +137,9 @@ msgid "accounts_ia_use_for_cellular_calls"
 msgstr "用于电话号码"
 
 msgid "accounts_nc_activate_account"
-msgstr "只有一个%s?"
+msgstr ""
+"只有一个%s账户可用，禁用账户\n"
+"%s?"
 
 msgid "accounts_ti_accounts"
 msgstr "即时通讯账户"
@@ -146,7 +148,7 @@ msgid "accounts_ti_auth_failed"
 msgstr "用户名或者密码错误"
 
 msgid "accounts_ti_completed_with_conn"
-msgstr "已登入 Nokia Ovi  : %s"
+msgstr "已登入 Nokia Ovi : %s"
 
 msgid "accounts_ti_new_jabber_account"
 msgstr "账户设置 - 新建 Jabber 账户:"
@@ -212,7 +214,7 @@ msgid "accountwizard_ib_illegal_server_address"
 msgstr "错误的域名.\n请更换域名."
 
 msgid "accountwizard_ib_passwords_do_not_match"
-msgstr "密码错误.\n请重新输入密码."
+msgstr "密码错误. 请重新输入密码."
 
 msgid "accountwizard_if_advanced_force_ssl"
 msgstr "强制使用旧的 SSL"
@@ -260,3 +262,30 @@ msgid "skype_nc_activate_account"
 msgstr ""
 "同一时间只能启用一个Skype账户.\n"
 " 登出 %s ?"
+
+msgid "accounts_fi_device_name"
+msgstr "设备名"
+
+msgid "accounts_fi_show_unread"
+msgstr "显示未读信息"
+
+msgid "accounts_fi_facebook_group_chat_open"
+msgstr "新的群组聊天，打开接收信息"
+
+msgid "accounts_fi_email"
+msgstr "E-mail"
+
+msgid "accounts_fi_phone"
+msgstr "手机号"
+
+msgid "accounts_fi_facebook_sync_interval"
+msgstr "好友列表刷新间隔"
+
+msgid "accounts_fi_facebook_mark_read"
+msgstr "聚焦时标记信息为已读"
+
+msgid "accounts_fi_show_self"
+msgstr "显示自己的消息"
+
+msgid "accounts_fi_facebook_mark_read_available"
+msgstr "仅当消息可用时标记为已读"
